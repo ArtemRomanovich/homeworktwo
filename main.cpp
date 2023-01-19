@@ -1,3 +1,4 @@
+/*https://github.com/ArtemRomanovich/homeworktwo*/
 #include <iostream>
 #include<stdlib.h>
 #include <cmath>
